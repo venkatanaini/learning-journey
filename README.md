@@ -8,5 +8,6 @@
 - Build real-world backend projects
 
 ## Progress
-Day 1 - Started my Java learning journey
-Day 2 - Learning Java variables and data types
+
+- Day 1 - Started my Java learning journey
+- Day 2 - Learning Java variables and data types
